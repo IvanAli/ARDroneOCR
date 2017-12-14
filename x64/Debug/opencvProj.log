@@ -1,0 +1,13 @@
+﻿Build started 12/1/2017 2:48:29 PM.
+     1>Project "C:\Users\Ivan\Documents\ITESM\OpenCV\ProyVS2013\Demo\opencvProj\opencvProj\opencvProj.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /I"C:\Users\Ivan\Documents\Code\build-3.0.0tl\install\include" /Zi /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt opencv_openimage.cpp
+         opencv_openimage.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Ivan\Documents\ITESM\OpenCV\ProyVS2013\Demo\opencvProj\x64\Debug\opencvProj.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\Ivan\Documents\Code\build-3.0.0tl\install\x64\vc12\lib" opencv_bgsegm300d.lib opencv_calib3d300d.lib opencv_ccalib300d.lib opencv_core300d.lib opencv_datasets300d.lib opencv_face300d.lib opencv_features2d300d.lib opencv_flann300d.lib opencv_hal300d.lib opencv_highgui300d.lib opencv_imgcodecs300d.lib opencv_imgproc300d.lib opencv_latentsvm300d.lib opencv_line_descriptor300d.lib opencv_ml300d.lib opencv_objdetect300d.lib opencv_optflow300d.lib opencv_photo300d.lib opencv_reg300d.lib opencv_rgbd300d.lib opencv_saliency300d.lib opencv_shape300d.lib opencv_stitching300d.lib opencv_superres300d.lib opencv_surface_matching300d.lib opencv_text300d.lib opencv_tracking300d.lib opencv_ts300d.lib opencv_video300d.lib opencv_videoio300d.lib opencv_videostab300d.lib opencv_xfeatures2d300d.lib opencv_ximgproc300d.lib opencv_xobjdetect300d.lib opencv_xphoto300d.lib libtesseract302d.lib liblept168d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Ivan\Documents\ITESM\OpenCV\ProyVS2013\Demo\opencvProj\x64\Debug\opencvProj.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Ivan\Documents\ITESM\OpenCV\ProyVS2013\Demo\opencvProj\x64\Debug\opencvProj.lib" /MACHINE:X64 x64\Debug\opencv_openimage.obj
+         opencvProj.vcxproj -> C:\Users\Ivan\Documents\ITESM\OpenCV\ProyVS2013\Demo\opencvProj\x64\Debug\opencvProj.exe
+     1>Done Building Project "C:\Users\Ivan\Documents\ITESM\OpenCV\ProyVS2013\Demo\opencvProj\opencvProj\opencvProj.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:06.56
