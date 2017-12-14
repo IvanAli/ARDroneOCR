@@ -42,6 +42,3 @@ The repository contains a project built in Visual Studio 2013 Community Version,
 22. Make sure the drone is on, and your computer is connected to it through WiFi
 23. Run the program and have fun
 
-
-
-Enter text in [Markdown](http://daringfireball.net/projects/markdown/). Use the toolbar above, or click the **?** button for formatting help.
